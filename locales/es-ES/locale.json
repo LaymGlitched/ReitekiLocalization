@@ -2,6 +2,9 @@
     "name": "Spanish (Spain)",
     "nativeName": "Espa\u00f1ol (Espa\u00f1a)",
     "locale": "es-ES",
-    "authors": [],
-    "version": 1
+    "authors": [
+        "LaymGlitched"
+    ],
+    "version": 1,
+    "minGameVersion": "0.1.0"
 }
